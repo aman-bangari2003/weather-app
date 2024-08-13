@@ -52,7 +52,7 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
+👤 AMAN BANGARI
 - Github: [@aman-bangari](https://github.com/aman-bangari2003)  2003
 - Linkedin: [amanbangari](https://www.linkedin.com/in/aman-bangari-220a7b220) 
 
