@@ -4,13 +4,13 @@
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
-![screenshot](./assets/screenshot1.png)
+![screenshot](./assets/aman1.png)
 
 Actual Weather:
-![screenshot](./assets/screenshot2.png)
+![screenshot](./assets/aman2.png)
 
 5-Day Forecast:
-![screenshot](./assets/screenshot3.png)
+![screenshot](./assets/aman3.png)
 
 
 Additional description about the project and its features.
@@ -25,9 +25,9 @@ Additional description about the project and its features.
 - BOOTSTRAP
 - GITHUB ACTIONS
 
-## Live Demo
+Reminder for me to put the link- AMAN BANGARI
 
-[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
+
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -53,7 +53,7 @@ Clone the repository unto your local machine cd to the folder.
 ## Author
 
 👤 AMAN BANGARI
-- Github: [@aman-bangari](https://github.com/aman-bangari2003)  2003
+- Github: [@aman-bangari](https://github.com/aman-bangari2003)  
 - Linkedin: [amanbangari](https://www.linkedin.com/in/aman-bangari-220a7b220) 
 
 ## Show your support
