@@ -30,7 +30,7 @@ Reminder for me to put the link- AMAN BANGARI
 
 
 ## Getting Started
-- Follow the live demo link and enjoy the site.
+
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
